@@ -1,4 +1,4 @@
-# Hi there! 
+# Hi there! 👋
 
 ## My name’s Ra’ad (رعد)
 Pronounced Rodd if your common tongue doesn’t have a “ع”.
