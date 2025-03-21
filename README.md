@@ -1,7 +1,7 @@
 # Hi there! 
 
 ## My name’s Ra’ad (رعد)
-pronounced Rodd if your common tongue doesn’t have a “ع”.
+Pronounced Rodd if your common tongue doesn’t have a “ع”.
 
 By day, I am a Software Engineer working in IT slowly automating tasks, processes, and systems until I put myself out of a job.
 
